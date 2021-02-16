@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Tiny Contact Time Tracker
 
 import pickle

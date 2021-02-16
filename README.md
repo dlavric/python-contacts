@@ -22,11 +22,19 @@ Moreover, the application needs to be able to do the following:
 
 ```shell
 git clone git@github.com:dlavric/python-contacts.git
+cd python-contacts
 ```
 
 - Open the application with your Python IDE or Visual Studio Code
 
 - Run the application
+
+By command line, open terminal and run the application
+```
+python3 tiny-contacts-time-tracker.py
+```
+
+Python IDE
 ```
 press "F5" from the keyboard
 ```
